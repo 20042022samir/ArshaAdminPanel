@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\bin\Debug\net6.0\ArshaAdminPanel.Core.deps.json
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\bin\Debug\net6.0\ArshaAdminPanel.Core.runtimeconfig.json
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\bin\Debug\net6.0\ArshaAdminPanel.Core.dll
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\bin\Debug\net6.0\ArshaAdminPanel.Core.pdb
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ArshaAdminPanel.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ArshaAdminPanel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ArshaAdminPanel.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ArshaAdminPanel.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ArshaAdminPanel.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ArshaAdminPanel.Core.dll
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\refint\ArshaAdminPanel.Core.dll
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ArshaAdminPanel.Core.pdb
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ArshaAdminPanel.Core.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ArshaAdminPanelll\ArshaAdminPanel.Core\obj\Debug\net6.0\ref\ArshaAdminPanel.Core.dll
